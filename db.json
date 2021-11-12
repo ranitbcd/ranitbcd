@@ -1,0 +1,16 @@
+{
+  "posts": [],
+  "signup": [
+    {
+      "name": "Ranit ",
+      "email": "Ranit@abc.com",
+      "mobile": "6786789798",
+      "password": "123",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
